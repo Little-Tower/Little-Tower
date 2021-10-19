@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ...  - 💬 Ask me about ... - 😄 Pronouns: ...  - ⚡ Fun fact: ...-->
 - 🌱 I’m currently learning something new every day.
-- 👨‍💻 Focus on Cyber Security 
+- 👨‍💻 Focus on Cyber Security and React
 - 📫 How to reach me: contact@little-tower.com
 
 ### 🌐 Languages:
