@@ -1,12 +1,16 @@
-# Hi, I'm Rafa Torrecilla 👋- [Little-Tower](https://little-tower.com)
+# Hi, I'm LittleTower
 
 <!-- - 🔭 I’m currently working on ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ...  - 💬 Ask me about ... - 😄 Pronouns: ...  - ⚡ Fun fact: ...-->
 <p>🌱 I’m currently learning something new every day.</p>
-<p>💻 Focus on Cyber Security and React</p>
+<p>💻 Focus on React, Bittensor and UAV development</p>
 <!-- - 📫 How to reach me: contact@little-tower.com -->
 
 ## 🌐 Languages:
 <p>Visual Studio Code<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></p>
+
+<p>React <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></p>
+
+<p>NodeJS <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></p>
 
 <p>Css3 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></p>
 
@@ -15,10 +19,6 @@
 <p>Sass <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></p>
 
 <p>JavaScript<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></p>
-
-<p>React <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></p>
-
-<p>NodeJS <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></p>
 
 <p>SQL <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></p>
 
