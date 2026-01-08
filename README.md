@@ -12,9 +12,9 @@ Full Stack Developer specializing in React, Node.js, and AI/Robotics systems. Cu
 
 ```typescript
 const expertise = {
-  frontend: ["React 18", "Next.js", "TypeScript", "Redux", "React Query"],
+  frontend: ["React 18", "Next.js", "TypeScript", "Redux", "React Query", "Vite"],
   backend: ["Node.js", "Express", "GraphQL", "Microservices"],
-  databases: ["MongoDB", "MySQL", "Prisma"],
+  databases: ["MongoDB", "MySQL", "Prisma", "Postgres"],
   devops: ["Docker", "Kubernetes", "CI/CD", "DigitalOcean", "AWS"],
   ai_ml: ["LLM Integration", "Python", "Bittensor Network"],
   hardware: ["Fusion 360", "KiCAD", "3D Printing", "Betaflight", "INAV"],
@@ -90,6 +90,3 @@ Constantly exploring new technologies in AI, blockchain, and robotics. Currently
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafa.torrecilla@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LittleTower)
 
----
-
-💡 *"Building the future, one commit at a time"*
