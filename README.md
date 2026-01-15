@@ -55,13 +55,6 @@ const expertise = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-[## 🏗️ Notable Projects
-
-### 🌐 Web Development
-- **NPro** - Full microservices architecture with Next.js, Node.js, MySQL & Docker
-- **BittensorCloud** - Server rental platform for AI model development
-- **SyncRemote** - Refactored and implemented new features with clean architecture
-- **Airbus/Atexis** - RPA dashboard and PDF conversion tools with React & ElectronJS]: #
 
 ### 🤖 Robotics & Hardware
 - **UAV Systems** - Custom drone development with Betaflight/INAV
