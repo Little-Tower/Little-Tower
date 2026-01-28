@@ -48,6 +48,7 @@ const expertise = {
 ![ROS](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/Fusion_360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-FF6600?style=for-the-badge&logo=3dprinting&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### Development Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
