@@ -3,9 +3,9 @@
 Full Stack Developer specializing in React, Node.js, and AI/Robotics systems. Currently working on Bittensor subnet development and UAV technologies.
 
 ## 🚀 Currently Working On
-
-- 🧠 **Bittensor Subnet 124 (Swarm)** - Decentralized AI infrastructure
-- 🚁 **UAV Development** - Custom drone systems with ROS2 integration
+- 📟 **Javascript development** - Always at the forefront of JavaScript and its frameworks
+- 🌐 **Bittensor** - Learning daily about decentralized AI infrastructure
+- 🚁 **UAV Development** - Custom drone development
 - 🤖 **Robotics** - Autonomous systems and sensor integration
 
 ## 💼 Professional Focus
@@ -13,7 +13,7 @@ Full Stack Developer specializing in React, Node.js, and AI/Robotics systems. Cu
 ```typescript
 const expertise = {
   frontend: ["React 18", "Next.js", "TypeScript", "Redux", "React Query", "Vite"],
-  backend: ["Node.js", "Express", "GraphQL", "Microservices"],
+  backend: ["Node.js", "Express", "GraphQL", "Microservices", "FastAPI", "Supabase"],
   databases: ["MongoDB", "MySQL", "Prisma", "Postgres"],
   devops: ["Docker", "Kubernetes", "CI/CD", "DigitalOcean", "AWS"],
   ai_ml: ["LLM Integration", "Python", "Bittensor Network"],
